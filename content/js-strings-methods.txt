@@ -1,1 +1,0 @@
-explain a bit about most comumn string methods in javascript

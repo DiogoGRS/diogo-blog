@@ -1,1 +1,0 @@
-explain the method search(), native from strings in the javascript language
